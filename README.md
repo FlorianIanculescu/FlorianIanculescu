@@ -28,11 +28,16 @@
 </p>
   
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianIanculescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/FlorianIanculescu?tab=repositories)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianianculescu&theme=dark)](https://github.com/florianianculescu/github-readme-stats)
+
+## My LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/FlorianIanculescu?theme=dark&font=baloo&extension=null)
 
 ## My GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florianianculescu&show_icons=true&locale=en&theme=tokyonight" alt="florianianculescu" /></p>
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianianculescu&show_icons=true&theme=dark)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florianianculescu&label=Profile%20views&color=0e75b6&style=flat" alt="florianianculescu" /> </p>
 
