@@ -11,6 +11,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/florian-ianculescu/">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> </a>
 
+  <a target="_blank" href="https://leetcode.com/FlorianIanculescu/">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="auto" height="50px">  </a>
+ 
 <a target="_blank" href="https://github.com/FlorianIanculescu">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px">  </a>
 
